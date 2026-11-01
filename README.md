@@ -1,6 +1,6 @@
 # Hi, I'm Melissa Gaither 👋
 
-### Cybersecurity Professional in Progress | CompTIA Security+ | Healthcare Compliance Specialist
+### Healthcare Compliance & GRC Analyst | CompTIA Security+
 
 I'm a career changer bringing **20 years of healthcare compliance and HIPAA experience** from the dental industry into cybersecurity. I passed the CompTIA Security+ exam and am actively building hands-on skills in GRC, risk management, and security operations.
 
