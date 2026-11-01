@@ -38,7 +38,7 @@ A complete Incident Response Plan covering all six phases — Preparation, Ident
 
 **Skills demonstrated:** NIST SP 800-61 incident response lifecycle, ransomware response procedures, HIPAA Breach Notification Rule (§§ 164.400–414), chain of command documentation, tabletop exercise planning
 
-📄 [View Incident Response Plan](./grc-projects/Incident Response Plan BrightSmile.pdf)
+📄 [View Incident Response Plan] (grc-projects/Incident Response Plan BrightSmile.pdf)
 
 ---
 
