@@ -49,7 +49,7 @@ A formal Security Awareness Training Policy covering all workforce members in a 
 
 **Skills demonstrated:** Policy development, HIPAA workforce training requirements, healthcare-specific threat awareness (phishing, vishing, physical security, clean desk, ransomware), documentation and recordkeeping standards, enforcement and compliance procedures
 
-📄 [View Training Policy](./grc-projects/security-awareness-training-policy.md)
+📄 [View Training Policy](https://github.com/CyberMomma-3/Cybersecurity-Portfolio-/blob/30e83319634bc014291f60c70bc596cfeaf2de96/grc-projects/Security%20Awareness%20Training%20Policy%20BrightSmile.pdf)
 
 ---
 
